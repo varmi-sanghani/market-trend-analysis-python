@@ -1,10 +1,10 @@
-# 📱 Market Trend Analysis and Data Cleaning
+# Market Trend Analysis and Data Cleaning
 
 This project analyzes auction data for Android and Apple phones scraped from an online marketplace. The dataset includes 10,000 entries with features like model, type, price, battery health, and rating. Our goal is to uncover patterns in resale value, battery performance, and popularity of phone models.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `data.csv`: Cleaned dataset of auctioned phones
 - `Group8_MIS6382_003.ipynb`: Jupyter notebook for analysis and visualizations
@@ -13,7 +13,7 @@ This project analyzes auction data for Android and Apple phones scraped from an 
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
 - **Pie Chart**: Android vs Apple phone distribution
 - **Bar Chart**: Frequency of each phone model
@@ -25,7 +25,7 @@ This project analyzes auction data for Android and Apple phones scraped from an 
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### Install Required Packages
 ```bash
